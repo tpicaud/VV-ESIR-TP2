@@ -34,7 +34,8 @@ public class Main {
             return SourceRoot.Callback.Result.DONT_SAVE;
         });
         
-        System.out.println(printer.getNoGetter());
+        printer.createFile();
+        //System.out.println(printer.getNoGetter());
     }
 
 

@@ -1,0 +1,4 @@
+Arrtibuts sans getter :
+
+method
+no_getter
